@@ -1,0 +1,5 @@
+files/*
+config.ini
+.DS_Store
+.vscode
+__pycache__
